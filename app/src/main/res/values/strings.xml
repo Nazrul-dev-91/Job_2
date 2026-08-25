@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Job_2</string>
+    <string name="welcome_message">Welcome to Job 2 App!</string>
+    <string name="get_started">Get Started</string>
+    <string name="total_profiles">Total Profiles: %1$d</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="add_new_profile">Add New Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="designation">Designation</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="profile_added">Profile added</string>
+    <string name="profile_updated">Profile updated</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
